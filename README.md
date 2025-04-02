@@ -1,2 +1,2 @@
-# EstructuraDeDatos1
-Nombre completo: Jorge Santiago Davalos Chilo. Registro: 223042471
+# Estructura de Datos 1
+## Jorge Santiago Davalos Chilo. Registro: 223042471
